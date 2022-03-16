@@ -1,0 +1,21 @@
+{
+    "name": "inside-code-edged",
+    "displayName": "Inside Code Edged",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Inside Code Edges",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Inside Code Edges-color-theme.json"
+            }
+        ]
+    }
+}
